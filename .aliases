@@ -1,0 +1,13 @@
+# Easy Navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+
+# Shortcuts
+alias dl="cd ~/Downloads"
+alias h="history"
+
+# Stopwatch
+alias timer='echo "Timer started. Stop with Ctrl-D." && date && time cat && date'
